@@ -1,4 +1,4 @@
- Google opens up its AI language model PaLM to challenge OpenAI and GPT-3 Google 
+Google opens up its AI language model PaLM to challenge OpenAI and GPT-3 Google 
 offers developers access to one of its most advanced AI language models: PaLM. The search 
 giant is launching an API for PaLM alongside a number of AI enterprise tools it says will 
 help businesses generate text, images, code, videos, audio, and more from simple natural 
